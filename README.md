@@ -1,2 +1,4 @@
 # Codeforces
-This repository contains the solutions to CodeForces competitions.
+My solutions for some codeforces problems
+
+
